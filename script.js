@@ -1,0 +1,1 @@
+const app=() => console.log("Hey, There!")
